@@ -1,0 +1,12 @@
+{
+    "name": "static_boilerplate_archive",
+    "authors": [
+        {
+            "name": "xavier egoneau",
+            "email": "xavier.egoneau@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig":"v1.23.1"
+    }
+}
